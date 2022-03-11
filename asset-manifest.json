@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/learnl/static/css/main.073c9b0a.css",
+    "main.js": "/learnl/static/js/main.720b083a.js",
+    "static/js/787.3c7ea9b8.chunk.js": "/learnl/static/js/787.3c7ea9b8.chunk.js",
+    "static/media/logo.svg": "/learnl/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/learnl/index.html",
+    "main.073c9b0a.css.map": "/learnl/static/css/main.073c9b0a.css.map",
+    "main.720b083a.js.map": "/learnl/static/js/main.720b083a.js.map",
+    "787.3c7ea9b8.chunk.js.map": "/learnl/static/js/787.3c7ea9b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.720b083a.js"
+  ]
+}
